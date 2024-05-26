@@ -1,4 +1,4 @@
-# MongoDB
+# MongoDB(with compass):
 
 > Documentation:
 > https://www.mongodb.com/docs/manual/
@@ -39,7 +39,7 @@ db.student.findOne({key: value})
 
 > https://www.mongodb.com/docs/manual/reference/operator/query/
 
-# Mongoose
+# Mongoose(with mongoDB)
 
 > https://mongoosejs.com/
 
